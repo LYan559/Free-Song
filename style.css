@@ -1,0 +1,271 @@
+div {
+    background-color: red;
+    width: 300px;
+    height: 380px;
+    border-radius: 20px;
+    margin-top: 230px;
+}
+
+input{
+    height: 15px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    outline: 0;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+}
+
+button{
+    height: 25px;
+    width: 100px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(255, 248, 248);
+    color: black;
+
+
+}
+
+
+.im1 {
+    background-position: center;
+    margin-top: -145px;
+    background-size: cover;
+}
+
+.nomes {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font: bolder;
+}
+
+.enviar {
+    margin-top:30px;
+    
+}
+
+header {
+    background-color: red;
+}
+
+.titulo {
+    font-size: 50px;
+}
+
+.musicas {
+    margin: center;
+    margin-top: -10px;
+    margin-right: 200px;
+}
+
+.musicas2 {
+    margin-right: -200px;
+    color: rgb(255, 0, 0);
+}
+
+.travis {
+    margin-top: -380px;
+    margin-left: 70px;
+}
+
+.travis2 {
+    color: rgb(255, 0, 0);
+    margin-left: 160px;
+}
+
+.eminem {
+    margin-left: 1340px;
+    margin-top: -380px;
+}
+
+.eminem2 {
+    margin-left: 200px;
+    color: red;
+    
+}
+
+
+.musica-container {
+    width: 30%; 
+    height: 550px;
+    overflow-y: auto; 
+    margin: 20px auto; 
+    padding: 20px; 
+    background-color: rgb(0, 0, 0); 
+    border: 2px solid #ccc;  
+    border-radius: 10px; 
+    font-family: Arial, sans-serif; 
+    font-size: 16px;  
+    line-height: 1.6;  
+    color: rgb(255, 255, 255); 
+    margin-left: 1200px;
+    margin-top: 70px;
+}
+
+.mscJ {
+    background-color: red;
+    font-size: 50px;
+   
+}
+
+.foto1 {
+    margin-top: -600px;
+    margin-left: 50px;
+    width: 500px;
+}
+
+.musica-container1 {
+    width: 30%; 
+    height: 550px;
+    overflow-y: auto; 
+    margin: 20px auto; 
+    padding: 20px; 
+    background-color: rgb(0, 0, 0); 
+    border: 2px solid #ccc;  
+    border-radius: 10px; 
+    font-family: Arial, sans-serif; 
+    font-size: 16px;  
+    line-height: 1.6;  
+    color: rgb(255, 255, 255); 
+    margin-left: 568px;
+    margin-top: -390px;
+}
+
+.musicaJc {
+    margin-top: 100px;
+    font-size: 30px;
+    color: red;
+}
+
+.ouvir {
+    font-size: 30px;
+    color: red;
+    margin-left: 150px;
+    margin-top: 800px;
+}
+
+
+.musica-container2 {
+    width: 30%; 
+    height: 550px;
+    overflow-y: auto; 
+    margin: 20px auto; 
+    padding: 20px; 
+    background-color: rgb(0, 0, 0); 
+    border: 2px solid #ccc;  
+    border-radius: 10px; 
+    font-family: Arial, sans-serif; 
+    font-size: 16px;  
+    line-height: 1.6;  
+    color: rgb(255, 255, 255); 
+    margin-left: 1200px;
+    margin-top: 50px;
+}
+
+.mscT {
+    background-color: rgb(255, 0, 0);
+    font-size: 50px;
+    color: black;
+}
+
+.foto2 {
+    margin-top: -600px;
+    margin-left: 50px;
+    width: 500px;
+}
+
+.musica-container3 {
+    width: 30%; 
+    height: 550px;
+    overflow-y: auto; 
+    margin: 20px auto; 
+    padding: 20px; 
+    background-color: rgb(0, 0, 0); 
+    border: 2px solid #ccc;  
+    border-radius: 10px; 
+    font-family: Arial, sans-serif; 
+    font-size: 16px;  
+    line-height: 1.6;  
+    color: rgb(255, 255, 255); 
+    margin-left: 568px;
+    margin-top: -390px;
+}
+
+
+.ouvir2 {
+    font-size: 30px;
+    color: red;
+    margin-left: 150px;
+    margin-top: 800px;
+}
+
+
+
+
+
+
+
+
+
+.musica-container4 {
+    width: 30%; 
+    height: 550px;
+    overflow-y: auto; 
+    margin: 20px auto; 
+    padding: 20px; 
+    background-color: rgb(0, 0, 0); 
+    border: 2px solid #ccc;  
+    border-radius: 10px; 
+    font-family: Arial, sans-serif; 
+    font-size: 16px;  
+    line-height: 1.6;  
+    color: rgb(255, 255, 255); 
+    margin-left: 1200px;
+    margin-top: 50px;
+}
+
+.mscE {
+    background-color: rgb(255, 0, 0);
+    font-size: 50px;
+    color: black;
+}
+
+.foto3 {
+    margin-top: -600px;
+    margin-left: 50px;
+    width: 500px;
+}
+
+.musica-container5 {
+    width: 30%; 
+    height: 550px;
+    overflow-y: auto; 
+    margin: 20px auto; 
+    padding: 20px; 
+    background-color: rgb(0, 0, 0); 
+    border: 2px solid #ccc;  
+    border-radius: 10px; 
+    font-family: Arial, sans-serif; 
+    font-size: 16px;  
+    line-height: 1.6;  
+    color: rgb(255, 255, 255); 
+    margin-left: 568px;
+    margin-top: -390px;
+}
+
+
+.ouvir3 {
+    font-size: 30px;
+    color: red;
+    margin-left: 150px;
+    margin-top: 800px;
+}
+
+
+
